@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;teststorage&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/will1/src/golang.org" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/github.com" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/google.golang.org" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/ryanGuild" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/will1/src/golang.org" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/github.com" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/google.golang.org" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/Desktop/will1/src/ryanGuild" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

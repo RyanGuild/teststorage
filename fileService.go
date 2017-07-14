@@ -1,4 +1,4 @@
-package teststorage
+package main
 
 import (
 	_ "cloud.google.com/go/storage"
